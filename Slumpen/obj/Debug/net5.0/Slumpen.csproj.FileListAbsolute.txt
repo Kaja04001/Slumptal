@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\Slumpen\bin\Debug\net5.0\Slumpen.exe
+C:\Users\Admin\Documents\Slumpen\bin\Debug\net5.0\Slumpen.deps.json
+C:\Users\Admin\Documents\Slumpen\bin\Debug\net5.0\Slumpen.runtimeconfig.json
+C:\Users\Admin\Documents\Slumpen\bin\Debug\net5.0\Slumpen.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Slumpen\bin\Debug\net5.0\Slumpen.dll
+C:\Users\Admin\Documents\Slumpen\bin\Debug\net5.0\ref\Slumpen.dll
+C:\Users\Admin\Documents\Slumpen\bin\Debug\net5.0\Slumpen.pdb
+C:\Users\Admin\Documents\Slumpen\obj\Debug\net5.0\Slumpen.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Slumpen\obj\Debug\net5.0\Slumpen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Slumpen\obj\Debug\net5.0\Slumpen.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Slumpen\obj\Debug\net5.0\Slumpen.AssemblyInfo.cs
+C:\Users\Admin\Documents\Slumpen\obj\Debug\net5.0\Slumpen.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Slumpen\obj\Debug\net5.0\Slumpen.dll
+C:\Users\Admin\Documents\Slumpen\obj\Debug\net5.0\ref\Slumpen.dll
+C:\Users\Admin\Documents\Slumpen\obj\Debug\net5.0\Slumpen.pdb
+C:\Users\Admin\Documents\Slumpen\obj\Debug\net5.0\Slumpen.genruntimeconfig.cache
